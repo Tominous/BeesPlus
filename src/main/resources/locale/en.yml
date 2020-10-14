@@ -7,7 +7,7 @@ text_no: "&cNo"
 ###################
 # Beehive GUI
 ###################
-beehive_info_gui_title: "&8Beehive Info"
+beehive_info_gui_title: "&8Beehive Information"
 
 beehive_info_gui_honey_capacity: "&fHoney Capacity"
 
@@ -33,7 +33,7 @@ honey_very_high: "Very High"
 ###################
 # Bee GUI
 ###################
-bee_info_gui_title: "&8Bee Info"
+bee_info_gui_title: "&8Bee Information"
 
 bee_info_gui_age: "&fAge"
 bee_info_gui_age_adult: "&aAdult"
